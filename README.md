@@ -39,6 +39,6 @@ To show my progress in **OSINT**, how I organize information, and my motivation 
 ---
 
 **🔗 Let’s connect:**  
-[My LinkedIn](in/elisabeth-ild)
+[My LinkedIn]((https://www.linkedin.com/in/elisabeth-ild/))
 
 #CTF #OSINT #Maltego #Cybersecurity #OpenSourceIntelligence
