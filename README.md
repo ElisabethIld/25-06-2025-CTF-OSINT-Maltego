@@ -6,7 +6,7 @@
 - 👥 **Team:** 3 people  
 - ⏰ **Duration:** 1 hour  
 - 🏅 **Result:** Earned my first OSINT badge
-badge_Maltego_OSINT-CTF.png
+[badge](screenshots/badge_Maltego_OSINT-CTF.png)
 
 ## 🚩 Challenges tackled
 
