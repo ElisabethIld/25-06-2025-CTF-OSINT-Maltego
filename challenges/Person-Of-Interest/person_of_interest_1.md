@@ -4,4 +4,4 @@ What is the name of the person pictured below?
 
 Answer with their full name written in Cyrillic script (3 words).
 
-![](screenshots/person_of_interest-1.png)
+![The image:](screenshots/person_of_interest-1.png)
