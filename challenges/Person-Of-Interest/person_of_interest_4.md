@@ -8,3 +8,7 @@ The document you are searching for is a PDF. Using Yandex and dorking to search 
 
 Hint - 2 (Cost: 10 points)
 The domain hosting this PDF is ric.mil.ru.
+
+
+
+Answer: Гвардии генералмайор or Guards Major General
