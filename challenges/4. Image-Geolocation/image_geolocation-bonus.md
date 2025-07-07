@@ -9,3 +9,5 @@ police_car_geolocation.jpg
 
 Hint - 1 (Cost: 5 points)
 Either reverse image search or metadata analysis will do the trick here.
+
+Answer: 2022-05-30
